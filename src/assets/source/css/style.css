@@ -128,11 +128,11 @@ a:hover {
 	padding-top: 0.8rem;
 }
 
-.link {
+.btn-custom-1 {
 	width: 25%;
 }
 
-.link::after {
+.btn-custom-1::after {
 	content: '';
 	display: block;
 	width: 100%;
@@ -184,6 +184,13 @@ a:hover {
 
 .text-menu-plant {
 	height: 33.3%;
+}
+
+.text-jumbotron {
+	min-height: 70vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 /* 

@@ -29,7 +29,7 @@
         <div class="row min-vh-100">
           <div class="col-lg-6 d-flex flex-column justify-content-end justify-content-xl-between position-relative p-0">
             <div class="wrapper pb-lg-5">
-              <div class="position-xl-absolute top-xl-50 start-xl-0 translate-xl-middle-y text-uppercase px-5">
+              <div class="position-xl-absolute top-xl-50 start-xl-0 translate-xl-middle-y text-uppercase px-5 text-jumbotron">
                 <h2 class="fs-4 text-border-bottom text-border-top">spring</h2>
                 <h2 class="fs-4 text-border-bottom py-3">collection</h2>
                 <h1 class="display-1 fw-bold pt-3 pb-lg-5">shop</h1>
@@ -40,7 +40,7 @@
                 <h2 class="fs-4 text-border-bottom text-uppercase fw-bold mb-4">richard</h2>
                 <p class="w-75 ls-1 leading-loose ff-brygada ">A tropical leaf, with delightful shapes perfect for
                   offices and workpaces</p>
-                <router-link class="link ls-1 text-center d-block position-relative" to="#">Add to cart</router-link>
+                <router-link class="btn-custom-1 ls-1 text-center d-block position-relative" to="#">Add to cart</router-link>
               </div>
             </div>
           </div>

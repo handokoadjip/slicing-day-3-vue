@@ -8,7 +8,7 @@
           <div class="wrapper text-center">
             <h2 class="display-5 text-border-bottom-center text-uppercase mb-5">{{ list.title }}</h2>
             <p class="ff-brygada w-75 ls-1 leading-loose mb-5 mx-auto">{{ list.description }}</p>
-            <router-link class="link ls-1 text-center d-block position-relative mx-auto" :to="list.href">Add to cart</router-link>
+            <router-link class="btn-custom ls-1 text-center d-block position-relative mx-auto" :to="list.href">Add to cart</router-link>
           </div>
         </div>
       </div>
